@@ -1,4 +1,4 @@
-module github.com/7Joe7/me/cmd/borndig
+module github.com/7Joe7/borndig
 
 go 1.26.1
 

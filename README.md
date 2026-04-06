@@ -21,3 +21,11 @@ This was created as a home assignment to demonstrate working with modern AI APIs
 **macOS**:
 ```bash
 brew install portaudio
+```
+
+## Environment Variables
+
+You must set these environment variables before running the app:
+
+- `ELEVENLABS_API_KEY` - required
+- `GROQ_API_KEY` - not required (bonus feature)
